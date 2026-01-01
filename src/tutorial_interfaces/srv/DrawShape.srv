@@ -1,5 +1,7 @@
 string shape
 float32 size
+float32 linear_time
+float32 angular_time
 ---
 bool success
 string message
